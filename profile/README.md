@@ -7,29 +7,36 @@
     #+#     #+#    #+# #+#   #+#  #+#        #+#   #+#+# #+#        #+#    #+#     #+#     
     ###      ########  ###    ### ########## ###    #### ##########  ########      ###              
 ```
-# Introduce TokeNest!! 😎
+# ♦️Introduce TokeNest!!♦️ 
 
 <!-- 기술스택 사진 넣고 가볍게 소개 -->
 
 
 <!--  -->
 
-<img width="5040" alt="TokeИest 2K" src="https://github.com/TokeNest/.github/assets/66249549/424b24ad-d3a6-4c0a-8567-e57025ec307c">
-<b>TokeNest</b>는 물가 변동을 실시간으로 추적하고 가격을 조정하는 블록체인 DEX 플랫폼입니다. 
+**TokeNest**는 블록체인 기반의 탈중앙화 금융 시스템인 DeFi(Decentralized finance)를 구축해 물가 변동의 문제를 최소화하고자 개발되었습니다.
 
-기존 시장에서는 물가 변동이 발생해도 가격 조정이 어렵고, 소비자와 기업 간의 불만이 생기는 경우가 많았습니다. **TokeNest**는 블록체인 기술과 스마트 컨트랙트를 활용하여 이 문제를 해결하고자 이 프로젝트를 만들었습니다.
+기존 시장은 생산자(기업)과 소비자(손님) 간의 상품 가격의 마찰이 끊이질 않고 있습니다. 생산자는 수입 계약의 문제, 인플레이션의 문제 등을 고려해 가격을 책정하고, 결국 소비자의 체감보다 비싸게 상품을 판매할 수 밖에 없습니다.
 
-TokeNest_SmartContract 리포지토리에선 Klaytn생태계에서 실물 상품과 대치되는 토큰발행 및 관리가 가능하며,
-TokeNest_NextJs 리포지토리에서는 블록체인에서 발행된 토큰에 맞춰 실시간 상품의 가격이 변하는 키오스크 시스템을 구현하였습니다.
+이에 대한 해결책으로 **TokeNest**가 개발되었습니다. DeFi 프로젝트를 구축해 실시간 물가에 맞춰 거래가 일어나고, 물가의 변동률에 맞춰 가격이 조정되게 됩니다. 결국 인플레이션 문제와 주기별 수입 계약의 문제를 최소화할 수 있으며, 생산자와 소비자 간의 합리적인 교류가 일어날 것이라 기대합니다.
 
-두 리포지토리를 활용하면 어떤 상품이든 토큰화하여 실시간 물가에 대응해 가격이 변동되는 시스템을 구현할 수 있습니다.
+**TokeNest**는 현재 Klaytn 네트워크에서 동작 가능한 SmartContrat 프로젝트를 구축했으며, NextJs를 활용하여 키오스크에서 TokeNest기술에 대한 활용 방안을 제시해주는 프로젝트를 구축했습니다.
+
+아래 두 리포지토리를 활용하면 어떤 상품이든 손쉽게 토큰화하여 실시간 물가에 대응하는 시스템을 구현할 수 있습니다. 기능에 대한 자세한 설명은 각 리포지토리의 README.md를 참조 바랍니다.
 
 **TokeNest-SmartContract Repository**: [TokeNest-SmartContract](https://github.com/TokeNest/TokeNest_SmartContract)
 
 **TokeNest-NextJs Repository**: [TokeNest-NextJs](https://github.com/TokeNest/TokeNest_Next.js)
 
+# TokeNest Architecture 😎
 
-# TechStack
+<img width="5040" alt="TokeИest 2K" src="https://github.com/TokeNest/.github/assets/66249549/424b24ad-d3a6-4c0a-8567-e57025ec307c">
+
+TokeNest의 전체적인 동작 방식을 확인할 수 있는 아키텍쳐 입니다.
+
+
+
+# TechStack 🤩
 <div align=center>
   <h3>Programming Languages</h3>
   <img src="https://img.shields.io/badge/solidity-363636?style=for-the-badge&logo=solidity&logoColor=white">
