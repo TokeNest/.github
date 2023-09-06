@@ -75,6 +75,9 @@ TokeИest SmartContract의 자세한 동작과정에 대해선 아래 문서를 
 </div>
 
 
+## Contributor
+[<img src="https://github.com/kang1027.png" width="60px;"/><br /><sub><ahref="https://github.com/kang1027">kang1027</a></sub>](https://github.com/kang1027/kang1027
+
 <!--
 
 **Here are some ideas to get you started:**
