@@ -55,6 +55,8 @@ TokeИest SmartContract의 자세한 동작과정에 대해선 아래 문서를 
 - **유통과정 간소화**: 스마트 컨트랙트를 활용하여 거래를 자동화하고 유통 과정을 간소화합니다.
 
 # TechStack 🤩
+![image](https://github.com/TokeNest/.github/assets/77330457/b9015598-b07e-4aa2-a351-be80800dbca2)
+
 <div align=center>
   <h3>Programming Languages</h3>
   <img src="https://img.shields.io/badge/solidity-363636?style=for-the-badge&logo=solidity&logoColor=white">
