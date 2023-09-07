@@ -1,18 +1,14 @@
 ```
-:::::::::::  ::::::::  :::    ::: :::::::::: ::::    ::: ::::::::::  ::::::::  ::::::::::: 
-    :+:     :+:    :+: :+:   :+:  :+:        :+:+:   :+: :+:        :+:    :+:     :+:     
-    +:+     +:+    +:+ +:+  +:+   +:+        :+:+:+  +:+ +:+        +:+            +:+     
+:::::::::::  ::::::::  :::    ::: :::::::::: :::    :::: ::::::::::  ::::::::  ::::::::::: 
+    :+:     :+:    :+: :+:   :+:  :+:        :+:   +::+: :+:        :+:    :+:     :+:     
+    +:+     +:+    +:+ +:+  +:+   +:+        :+:  +:++:+ +:+        +:+            +:+     
     +#+     +#+    +:+ +#++:++    +#++:++#   +#+ +:+ +#+ +#++:++#   +#++:++#++     +#+     
-    +#+     +#+    +#+ +#+  +#+   +#+        +#+  +#+#+# +#+               +#+     +#+     
-    #+#     #+#    #+# #+#   #+#  #+#        #+#   #+#+# #+#        #+#    #+#     #+#     
-    ###      ########  ###    ### ########## ###    #### ##########  ########      ###              
+    +#+     +#+    +#+ +#+  +#+   +#+        +#++#+  #+# +#+               +#+     +#+     
+    #+#     #+#    #+# #+#   #+#  #+#        #+##+   #+# #+#        #+#    #+#     #+#     
+    ###      ########  ###    ### ########## ####    ### ##########  ########      ###              
 ```
+
 # ♦️Introduce TokeИest!!♦️ 
-
-<!-- 기술스택 사진 넣고 가볍게 소개 -->
-
-
-<!--  -->
 
 **TokeИest**는 블록체인 기반의 탈중앙화 금융 시스템인 DeFi(Decentralized finance)를 구축해 물가 변동의 문제를 최소화하고자 개발되었습니다.
 
@@ -78,7 +74,7 @@ TokeИest SmartContract의 자세한 동작과정에 대해선 아래 문서를 
 
 
 ## Contributor
-[<img src="https://github.com/kang1027.png" width="60px;"/><br/><sub><a href="https://github.com/kang1027">kang1027</a></sub>](https://github.com/kang1027)
+[<img src="https://github.com/kang1027.png" width="60px;"/><sub><a href="https://github.com/kang1027">kang1027</a></sub>](https://github.com/kang1027)
 [<img src="https://github.com/choiht0904.png" width="60px;"/><br/><sub><a href="https://github.com/choiht0904">choiht0904</a></sub>](https://github.com/choiht0904)
 [<img src="https://github.com/kecan0406.png" width="60px;"/><br/><sub><a href="https://github.com/kecan0406">kecan0406</a></sub>](https://github.com/kecan0406)
 <!--
