@@ -74,9 +74,14 @@ TokeИest SmartContract의 자세한 동작과정에 대해선 아래 문서를 
 
 
 ## Contributor
-[<img src="https://github.com/kang1027.png" width="60px;"/><sub><a href="https://github.com/kang1027">kang1027</a></sub>](https://github.com/kang1027)
-[<img src="https://github.com/choiht0904.png" width="60px;"/><br/><sub><a href="https://github.com/choiht0904">choiht0904</a></sub>](https://github.com/choiht0904)
-[<img src="https://github.com/kecan0406.png" width="60px;"/><br/><sub><a href="https://github.com/kecan0406">kecan0406</a></sub>](https://github.com/kecan0406)
+[<img src="https://github.com/kang1027.png" width="60px;"/>](https://github.com/kang1027)
+[<img src="https://github.com/choiht0904.png" width="60px;"/>](https://github.com/choiht0904)
+[<img src="https://github.com/kecan0406.png" width="60px;"/>](https://github.com/kecan0406)
+
+<sub><a href="https://github.com/kang1027">kang1027</a></sub>
+<sub><a href="https://github.com/choiht0904">choiht0904</a></sub>
+<sub><a href="https://github.com/kecan0406">kecan0406</a></sub>
+
 <!--
 
 **Here are some ideas to get you started:**
